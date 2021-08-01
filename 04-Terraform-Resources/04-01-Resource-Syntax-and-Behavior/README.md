@@ -123,7 +123,7 @@ Observation:
 1) - destroy
 2) # aws_instance.my-ec2-vm will be destroyed
 3) Plan: 0 to add, 0 to change, 1 to destroy
-4) Destroy complete! Resources: 1 destroyed
+4) destroy: Destroy complete! Resources: 1 destroyed
 ```
 
 ## Step-10: Understand Desired and Current States (High-Level Only)
