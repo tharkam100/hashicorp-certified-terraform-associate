@@ -112,7 +112,7 @@ Observation:
 terraform apply -auto-approve
 Observation: "Apply complete! Resources: 1 added, 0 changed, 1 destroyed."
 ```
-
+The below image "terraform plan" will say the resources that are to be replaced aand what forces the replacement (see text in red)
 ![image](https://user-images.githubusercontent.com/72263813/127781933-24d98a55-3a40-410d-91ff-076602423396.png)
 
 ## Step-09: Resource: Destroy Resource
