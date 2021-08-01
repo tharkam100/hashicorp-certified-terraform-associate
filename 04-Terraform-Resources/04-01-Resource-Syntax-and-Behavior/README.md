@@ -112,8 +112,8 @@ Observation:
 terraform apply -auto-approve
 Observation: "Apply complete! Resources: 1 added, 0 changed, 1 destroyed."
 ```
-![image](https://user-images.githubusercontent.com/72263813/127781876-084f162f-9b2b-43ff-8221-d753a3c445cc.png)
 
+![image](https://user-images.githubusercontent.com/72263813/127781933-24d98a55-3a40-410d-91ff-076602423396.png)
 
 ## Step-09: Resource: Destroy Resource
 ```
