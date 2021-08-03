@@ -91,7 +91,8 @@ terraform apply -auto-approve
 cd terraform.tfstate.d/dev
 ls
 cd ../../
-Observation: You should fine "terraform.tfstate" in "current-working-directory/terraform.tfstate.d/dev" folder
+**Observation: **
+You should fine the dev "terraform.tfstate" in "current-working-directory/terraform.tfstate.d/dev" folder
 
 # Verify EC2 Instance in AWS mgmt console
 Observation:
