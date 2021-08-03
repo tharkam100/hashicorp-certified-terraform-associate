@@ -224,6 +224,8 @@ terraform apply -auto-approve
 
 # Review State file in S3 Bucket for dev workspace
 Go to AWS Mgmt Console -> Services -> S3 -> terraform-stacksimplify -> env:/ -> dev -> workspaces -> terraform.tfstate
+# Review the default state file.
+Go to AWS Mgmt Console -> Services -> S3 -> terraform-stacksimplify -> workspaces -> terraform.tfstate
 ```
 
 ### Step-08-04: Destroy resources in both workspaces (default, dev)
